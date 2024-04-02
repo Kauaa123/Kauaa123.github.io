@@ -1,0 +1,90 @@
+body{
+    background-image: url(/public/assets/images/img.jpg );
+}
+.mae{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+    height: 350px;
+    gap: 300px;
+    text-align: center;
+}
+
+.bolo img{
+    width: 380px;
+}
+
+.cabecalho h1{
+  font-family: 'um';
+ text-align: center;
+}
+
+.bolo2 img{
+  
+    width: 380px; 
+    height: 250px;
+    
+}
+
+.bolo3 img{
+    width: 400px;
+    height: 240px;
+}
+
+.mae .bolo3{
+font-size: 15px;
+font-family: um;
+}
+
+.mae2{
+    display: flex;
+    
+    padding:5px;
+    height: 300px;
+    gap: 320px;
+    text-align: center;
+    align-items:center;
+    justify-content: center;
+ 
+}
+
+.bolo4 img{
+    width: 390px;
+
+}
+.bolo5 img{
+    width: 380px;
+    
+}
+.bolo6 img{
+    width: 405px;
+    
+   
+}
+ 
+.bolo h1{
+font-family: seis;
+}
+
+.bolo2 h1{
+    font-family: quatro;
+}
+
+.bolo3 h1{
+    font-family: cinco;
+}
+
+.bolo4 h1{
+    font-family:um;
+}
+.bolo5 h1{
+    font-family: dois; 
+}
+
+.bolo6 h1{
+    font-family: tres;
+}
+
+
+

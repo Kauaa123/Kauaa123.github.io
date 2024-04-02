@@ -1,0 +1,47 @@
+
+.menu{
+    display: flex;
+    padding: 20px;
+    gap: 30px;
+    font-family:'seis';  
+    background-color: #e5dbd0;
+
+}
+.menu a{
+    padding: 20px;
+    color:blue;
+}
+.menu img{
+    width: 90px;
+    align-items: center;
+}
+.bolo{
+display: flex;
+flex-direction: column;
+text-align: center;
+background-image: url(/public/assets/images/principal.jpg);
+background-position: center;   
+background-size: cover;
+height: 600px;
+color: #fff;
+padding: 10px;
+}
+.bolo h1{
+    font-family: 'cinco';
+    padding: 30px;
+}
+.bolo p{
+    font: 600 20px 'um';
+    color: #fff;
+}
+.final{
+    text-align: center;
+    padding: 30px;
+}
+
+.final h1{
+    font: 600 20px 'seis';
+}
+.final p{
+    font: 400 20px 'tres';
+}
